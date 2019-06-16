@@ -1,0 +1,15 @@
+* What is an API, and what can we use them for?
+It is a term for computer programming, and it means Application Programming Interface. It is simply a communication protocol. It defines methods for other applications in order to them to communicate and share data among them. By APIs data can be transferred from one environment to the other. A good API provides uncluttered clean data that is needed by the programmer to be transferred. It helps to the programmer to extract/insert information from/to one environment in a way that is needed. It also provides to the programmer the convenience to do the job by not knowing the backend operations that is happening to extract/insert that data. It simplifies, speed-ups and standardized the job.1
+
+* When should we consider putting API-fetched data in SQL vs a NoSQL database?
+This is a typical question for an organization to decide if to have a SQL or NoSQL database and the answer is “it depends on the needs”. If the organization will have relatively smaller data size, low data usage and update frequency, relatively lighter needs of analytics, and highly standardized query methodology; it would be better to employ a SQL type database. However, when the size of the database starts increasing, the data types starts changing or varying, need for analytics are getting heavier, faster maintenance and querying required or when it starts get hard to maintain standardized and structured data, organization should turn its face towards NoSQL solutions.2
+1 https://en.wikipedia.org/wiki/Application_programming_interface
+2 Joshi, V. (2016, June 7). Relational vs. NoSQL Databases for API Traffic. Retrieved June 9, 2019, from https://blog.cloud-elements.com/relational-vs.-nosql-databases
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
